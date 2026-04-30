@@ -75,6 +75,7 @@ So buckle up, boss.
 Alright. If you’re still reading, you seem ready to me.
 Let’s install the tools we’ll use in this learning journey.
 (PS: I’m learning myself — so we’re on the same page.)
+```
 Tools Required
 
 VS Code
@@ -86,7 +87,7 @@ Definitely not the snake. It’s the programming language we’ll use.
 GitHub Account
 A platform for version control.
 Think of it like tracking different stages of manufacturing — but for code.
-
+```
 > [!NOTE]
 > Come on, grab something. This writing helps, but you must make short notes for yourself.
 > Writing things down helps more than you think.
