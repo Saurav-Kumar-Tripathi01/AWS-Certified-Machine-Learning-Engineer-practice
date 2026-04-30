@@ -2,15 +2,15 @@ Phase 0 — Actual Study
 📍 Reading Progress (Bookmark This)
 Tick sections as you read. This is your bookmark.
 
-[ ] Intro — Why Phase 0
-[ ] Few Things to Say to Yourself
-[ ] Promise Me One Thing
-[ ] About Problems
-[ ] Tools We’ll Use
-[ ] Notes & Tracking
-[ ] Time Commitment
-[ ] When Phase 0 Is Done
-[ ] What Comes Next
+- [ ] Intro — Why Phase 0
+- [ ] Few Things to Say to Yourself
+- [ ] Promise Me One Thing
+- [ ] About Problems
+- [ ] Tools We’ll Use
+- [ ] Notes & Tracking
+- [ ] Time Commitment
+- [ ] When Phase 0 Is Done
+- [ ] What Comes Next
 
 
 Hello.
