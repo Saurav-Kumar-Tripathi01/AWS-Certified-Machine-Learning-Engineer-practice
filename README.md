@@ -106,3 +106,6 @@ Each phase contains:
 - Read notes slowly and apply ideas immediately
 - Do not rush confusion
 - Treat errors as part of learning
+
+## Message from the Creator
+  I understand, it can be overwhelming at time but remember, each stone you put is gonna contribute to your home at the end. Slowed progress gets unnoticed and that is why your brain says, you need to hurry up. It's best said, Go Slow, Obstacle ahead!. Everything aside, don't intentionally perform bad on what you are working on already. There are at times, you don't want to work what is assigned to you or you don't like it but trust me, be minimalistic, don't go extra mile, complete your shift and shift your focus, don't be flexible for what you don't love doing. Corporate can be crazy at times but you have to maintain your Sanity. Remember, you are not doing this for anyone else but you! Choose the best for you!
