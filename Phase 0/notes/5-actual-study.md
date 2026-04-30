@@ -87,9 +87,9 @@ GitHub Account
 A platform for version control.
 Think of it like tracking different stages of manufacturing — but for code.
 
-Notes
-Come on, grab something. This writing helps, but you must make short notes for yourself.
-Writing things down helps more than you think.
+> [!NOTE]
+> Come on, grab something. This writing helps, but you must make short notes for yourself.
+> Writing things down helps more than you think.
 
 
 
