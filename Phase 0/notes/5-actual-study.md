@@ -102,6 +102,7 @@ A small daily log
 Example:
 
 Day 1: Installed Python. PATH issue showed up. Googled it. Fixed it. Felt good.
+> ps. how to fix it? well, search for environment variables >> select path >> edit >> add the path where you installed python
 
 
 These small entries matter.
