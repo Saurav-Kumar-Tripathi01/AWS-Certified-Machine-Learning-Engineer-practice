@@ -3,3 +3,4 @@
 3. Watched single video
 4. Went over [5-actual-study](../notes/5-actual-study.md)
 5. logging the day off to keep the sanity
+6. I know, I know, Just planning the goal for Day 1
